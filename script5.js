@@ -1,7 +1,7 @@
 let head = document.getElementById("mouse");
 
 function changeText() {
-    head.innerHTML = "Hello Adrita";
+    head.innerHTML = "All power is within you.you can do anything and everything.";
 }
 head.addEventListener("mouseover",changeText);
 
